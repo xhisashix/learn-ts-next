@@ -7,7 +7,6 @@ function BigFooter() {
         <div className="flex justify-between">
           <div>
             <h2 className="text-xl font-bold">Company Name</h2>
-            <p className="mt-2">© 2023 Company Name. All rights reserved.</p>
           </div>
           <div>
             <h2 className="text-xl font-bold">Contact Us</h2>
