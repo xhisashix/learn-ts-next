@@ -9,6 +9,7 @@ function Header() {
         <ul className="flex space-x-4">
           <li className="inline-block"><Link className="hover:underline" href="/">Home</Link></li>
           <li className="inline-block"><Link className="hover:underline" href="/about">About</Link></li>
+          <li className="inline-block"><Link className="hover:underline" href="/news">News</Link></li>
           <li className="inline-block"><Link className="hover:underline" href="/contact">Contact</Link></li>
         </ul>
       </nav>
